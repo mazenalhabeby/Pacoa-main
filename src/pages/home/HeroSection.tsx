@@ -1,4 +1,4 @@
-import {heroImage} from "@/assets"
+import { heroImage } from "@/assets";
 
 const HeroSection = () => {
   return (
@@ -28,10 +28,10 @@ const HeroSection = () => {
           </p>
           <p className="mt-4 text-sm text-gray-700">
             Hören Sie auf, Geld für unzuverlässige Paletten zu verschwenden. Bei
-            Woodbridge Pallet bieten wir hochwertige Paletten, umweltfreundliche
-            Reparaturen und schnellen Ersatz, damit Ihr Unternehmen reibungslos
-            weiterläuft – ganz ohne versteckte Kosten oder Aufwand. Vertraut von
-            führenden Unternehmen in ganz Österreich.
+            Pacoa bieten wir hochwertige Paletten, umweltfreundliche Reparaturen
+            und schnellen Ersatz, damit Ihr Unternehmen reibungslos weiterläuft
+            – ganz ohne versteckte Kosten oder Aufwand. Vertraut von führenden
+            Unternehmen in ganz Österreich.
           </p>
           <button className="mt-6 bg-[#b85b16] hover:bg-[#a84e12] text-white font-semibold py-3 px-6 rounded transition">
             Jetzt kostenloses Angebot anfordern
@@ -39,7 +39,7 @@ const HeroSection = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default HeroSection
+export default HeroSection;
